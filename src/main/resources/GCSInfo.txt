@@ -1,0 +1,32 @@
+https://qa.pnbmetlife.com?
+client_id=908594821341-9tug9a4rtce4aap0f58rqv0juevgcgpk.apps.googleusercontent.com
+client_secret=64jRQL90b-n-0J5GoegSovDL 
+key=AIzaSyC2xDVaUeREMWOvvSiFZ3WaBNl8JnI1R9o
+query=insurance
+Searchapplicationid=searchapplications/default
+Authorization code=4/WwFrqrd9c3zTLXvuFWbOU40o5_mMDKbwWkYWoAroE4dL6u4dXYOJ4_zIKy0AhVmgv6s0NuRrdBX2m2noesscd30
+Access token=ya29.GlsaB1qEaYqQ6GyHVlDZUv8bmxWQOmRlddsh3r2VYNiY485yuGfeQ8B22NVwoOEbb_vnplnCTY2zEuGVjrx_2j_0vaBAQX_2V5Ujgqer1BXmrxKPGcWyOgG9X_V4
+scope=https://www.googleapis.com/auth/cloud_search.query
+
+https://developers.google.com
+
+POST /v1/query/search HTTP/1.1
+Host: cloudsearch.googleapis.com
+Content-length: 109
+Key: AIzaSyC2xDVaUeREMWOvvSiFZ3WaBNl8JnI1R9o
+Client_id: 908594821341-9tug9a4rtce4aap0f58rqv0juevgcgpk.apps.googleusercontent.com
+Client_secret: 64jRQL90b-n-0J5GoegSovDL
+Content-type: application/json
+Authorization: Bearer ya29.GlsaB1AyWiWHz_sAKJrXPvpEQyRmnNdpYOlLwAj81QOPeMYeLFl-DyxrtGcuQY17-NbY6lxMqGNL2uEM3w2ZfrOg6WCEHsS4KNRfEF-OT0USuaVBwbWgrNYEy4Pw
+{
+  "requestOptions": {
+    "searchApplicationId": "searchapplications/default"
+  },
+  "query": "insurance"
+}
+ftp://203.197.128.138
+ftp://10.200.2.225/
+
+un : ravi
+
+pwd : Sw0rd@2018
